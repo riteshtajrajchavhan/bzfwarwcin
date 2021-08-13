@@ -133,7 +133,7 @@ function setup() {
 
 //song.loop();
 
-alert("If the game is laging so please restart the game and please give ratings because this is my first game so please tell me how it is")
+alert("New update has came please update the game and please tell me that game is good or not")
 
 }
 
